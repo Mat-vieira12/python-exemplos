@@ -4,7 +4,7 @@ print(type(exemplo))
 exemplo=23
 print(type(exemplo))
 
-exemplo=9.99
+exemplo=9.98
 print(type(exemplo))
 
 exemplo= True
